@@ -94,20 +94,6 @@
             }
           }
         },
-        "islandora_profile":{
-          "type":"package",
-          "package":{
-            "name":"islandora/islandora_profile",
-            "version":"dev-1.x",
-            "type":"drupal-profile",
-            "source":{
-              "url":"https://github.com/Islandora-Devops/islandora_profile.git",
-              "type":"git",
-              "reference":"1.x"
-            }
-          }
-
-        },
         "assets":{
           "type":"composer",
           "url":"https://asset-packagist.org"
